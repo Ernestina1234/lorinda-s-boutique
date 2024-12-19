@@ -92,5 +92,17 @@ footer {
 }
 
 .ass-header{
-    color: black;
+    color: blue;
+}
+
+
+#home{
+    
+    margin: auto;
+    margin-top: 12rem;
+}
+
+
+#home h2{ 
+    font-size: 2rem;
 }
